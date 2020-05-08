@@ -1,0 +1,19 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: 0 0 no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    font-family: "Microsoft yahei";
+    background-color: #fff;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    padding-left: 10px
+}
